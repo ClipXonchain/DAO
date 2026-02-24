@@ -117,20 +117,7 @@ Weekly releases ensure sustainable development funding while preventing supply s
 
 ---
 
-## 🚀 Call to Action
 
-Vote **YES** if you believe this allocation:
-- Properly incentivizes the team
-- Enables growth while maintaining transparency
-- Protects token holders from excessive unlock pressure
 
-Vote **NO** if you believe changes are needed to:
-- Lock periods
-- Allocation percentages
-- Vesting schedules
-
-**Your voice matters. Vote now! 🗳️**
-
----
 
 *This proposal is subject to DAO governance. All timelines and parameters are flexible based on community feedback.*
